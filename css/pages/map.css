@@ -1,0 +1,14 @@
+.content-find {
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.content-find a {
+  font-weight: 400;
+  color: #1b4762;
+}
+
+.content-find a:hover {
+  transition: 0.5s;
+  color: red;
+}

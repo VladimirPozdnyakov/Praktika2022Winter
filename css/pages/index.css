@@ -1,0 +1,25 @@
+.entry-description-container {
+  position: absolute;
+  bottom: 10%;
+  color: white;
+  left: 20%;
+}
+
+.entry-description-container_text1 {
+  font-weight: 900;
+  font-size: 50px;
+  color: white;
+  text-decoration: none;
+}
+
+.entry-description-container_text2 {
+  position: absolute;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.entry-description-container_text1:hover,
+.entry-description-container_text2:hover {
+  transition: 0.5s;
+  color: red;
+}
