@@ -1,1 +1,1 @@
-# https://vladimirpozdnyakov.github.io/Praktika2022Winter/
+# vladimirpozdnyakov.github.io/Praktika2022Winter
