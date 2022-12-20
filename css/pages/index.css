@@ -1,13 +1,13 @@
 .entry-description-container {
   position: absolute;
-  bottom: 10%;
+  bottom: 70px;
   color: white;
   left: 20%;
 }
 
 .entry-description-container_text1 {
   font-weight: 900;
-  font-size: 50px;
+  font-size: calc(0.018 * 90vw + 2rem);
   color: white;
   text-decoration: none;
 }
